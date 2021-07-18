@@ -1,4 +1,4 @@
-"# Hotel-Bookings-Cancelation-Predictor" 
+# Hotel-Bookings-Cancelation-Predictor
 
 Problem Statement: 
 1) Tell a story using data about hotel bookings
